@@ -1496,6 +1496,14 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 
 # M
 
+
+### Marufur Rahman
+
+- Bachelor student in CSE at BGC Trust University Bangladesh.
+- I like to read good books, traveling, programming.
+- [![twitter-alt][twitter-img]](https://twitter.com/Marufur15867034)
+  [![github-alt][github-img]](https://github.com/MarufurRahman)
+
 ### Mahesh Sarathchandra
 
 - student in Information Technology in university of moratuwa .
